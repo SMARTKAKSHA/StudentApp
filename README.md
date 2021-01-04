@@ -17,6 +17,9 @@
 
 <img src = "/screenshots/Screenshot_1607235873.png" width="300" height="500"/> <img src = "/screenshots/Screenshot_1607235879.png" width="300" height="500"/>
 
+# QUIZ/EXAM
+
+
 # RESET PASSWORD
 
  <img src = "/screenshots/Screenshot_1607235873.png" width="300" height="500"/> 
@@ -33,9 +36,7 @@
 
 # STUDENT PERFORMANCE
 
-<img src = "/smartkaksha clips/Student Search.jpeg" width="300" height="500"/> <img src = "/smartkaksha clips/Student Info.jpeg" width="300" height="500"/> 
-
-<img src = "/smartkaksha clips/Student Grades.jpeg" width="300" height="500"/> 
+<img src = "/smartkaksha clips/Student Info.jpeg" width="300" height="500"/> <img src = "/smartkaksha clips/Student Grades.jpeg" width="300" height="500"/> 
 
 
 # SESSION CONTENT
