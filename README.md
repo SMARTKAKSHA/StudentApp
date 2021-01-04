@@ -15,7 +15,7 @@
 
 # MAIN MENU 
 
-<img src = "/screenshots/Screenshot_1607235873.png" width="300" height="500"/> <img src = "/screenshots/Screenshot_1607235879.png.png" width="300" height="500"/>
+<img src = "/screenshots/Screenshot_1607235873.png" width="300" height="500"/> <img src = "/screenshots/Screenshot_1607235879.png" width="300" height="500"/>
 
 # RESET PASSWORD
 
@@ -23,19 +23,20 @@
 
 # CLASSROOM SESSION
 
-<img src = "/screenshots/Screenshot_1607235900.png" width="300" height="500"/>  <img src = "/screenshots/Screenshot_1607235873.png" width="300" height="500"/> 
+<img src = "/screenshots/Screenshot_1607235900.png" width="300" height="500"/> <img src = "/smartkaksha clips/Select Cohort and course.jpeg" width="300" height="500"/> <img src = "/smartkaksha clips/Session.jpeg" width="300" height="500"/> 
 
-
- <img src = "/screenshots/Screenshot_1607235873.png" width="300" height="500"/>  <img src = "/screenshots/Screenshot_1607235873.png" width="300" height="500"/> 
+<img src = "/smartkaksha clips/Server-Client Connection.jpeg" width="300" height="500"/> <img src = "/smartkaksha clips/Test.jpeg" width="300" height="500"/> 
 
 # SYNCHRONIZE DATA FROM CLOUD
 
- <img src = "/screenshots/Screenshot_1607235873.png" width="300" height="500"/> 
+<img src = "/smartkaksha clips/Sync Data.jpeg" width="300" height="500"/> 
 
 # STUDENT PERFORMANCE
 
- <img src = "/screenshots/Screenshot_1607235873.png" width="300" height="500"/> 
- <img src = "/screenshots/Screenshot_1607235873.png" width="300" height="500"/> 
+<img src = "/smartkaksha clips/Student Search.jpeg" width="300" height="500"/> <img src = "/smartkaksha clips/Student Info.jpeg" width="300" height="500"/> 
+
+<img src = "/smartkaksha clips/Student Grades.jpeg" width="300" height="500"/> 
+
 
 # SESSION CONTENT
 
