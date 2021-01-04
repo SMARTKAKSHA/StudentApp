@@ -22,13 +22,13 @@
 
 # RESET PASSWORD
 
- <img src = "/screenshots/Screenshot_1607235873.png" width="300" height="500"/> 
+<img src = "/smartkaksha clips/Reset Password 1.jpeg" width="300" height="500"/> <img src = "/smartkaksha clips/Reset Password 2.jpeg" width="300" height="500"/> 
 
 # CLASSROOM SESSION
 
 <img src = "/screenshots/Screenshot_1607235900.png" width="300" height="500"/>  <img src = "/smartkaksha clips/Session.jpeg" width="300" height="500"/> 
 
-<img src = "/smartkaksha clips/Screenshot_1607235904" width="300" height="500"/> <img src = "/smartkaksha clips/Test.jpeg" width="300" height="500"/> 
+<img src = "/screenshots/Screenshot_1607235904" width="300" height="500"/> <img src = "/smartkaksha clips/Test.jpeg" width="300" height="500"/> 
 
 # SYNCHRONIZE DATA FROM CLOUD
 
