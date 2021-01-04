@@ -11,7 +11,7 @@
 
 # LOGIN
 
-<img src = "/smartkaksha clips/Login Page.jpeg" width="300" height="500"/> 
+<img src = "/screenshots/Screenshot_1607235860.png" width="300" height="500"/> 
 
 # MAIN MENU 
 
